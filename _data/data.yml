@@ -30,46 +30,22 @@ sidebar:
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
-     title: Skills (Languages, Frameworks, Tools and Platforms)
+     title: Skills
      info:
-       - idiom: C#
-         #level: Native
+       - idiom: Languages
+         level: C#, SQL, Javascript, Typescript, Bash, Kotlin
     
-       - idiom: Node
-         #level: Professional
+       - idiom: Frameworks
+         level: .NET, .NET Core, Node, Angular, React
     
-       - idiom: Typescript
-         #level: Professional
-
-       - idiom: SQL
-         #level: Professional
-
-       - idiom: Bash
-         #level: Native
-    
-       - idiom: Kotlin
-         #level: Professional
-    
-       - idiom: Angular
-         #level: Professional
-
-       - idiom: React
-         #level: Professional
-
-       - idiom: Git
-         #level: Native
-    
-       - idiom: Docker
-         #level: Professional
-    
-       - idiom: TeamCity
-         #level: Professional
-
-       - idiom: AWS
-         level: CloudFormation, Lambda, ECS, EC2, CloudWatch, etc.
+       - idiom: Developer Tools
+         level: Git, Docker, TeamCity, Octopus, JIRA, Swagger
 
        - idiom: Agile Methodologies
          level: SCRUM, Kanban, Extreme Programming
+
+       - idiom: AWS
+         level: CloudFormation, Lambda, ECS, EC2, CloudWatch, etc.
 
     interests:
       title: Interests
