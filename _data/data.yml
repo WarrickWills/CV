@@ -72,15 +72,15 @@ education:
         university: AUT University
         time: 2014 - 2016
         details: |
-          Double Major in Software Development and Computer Science
-          Overall GPA: B+
+          - Double Major in Software Development and Computer Science
+          - Overall GPA: B+
       - degree: Cambridge AS/A and IGCSE Levels
         university: Macleans College
         time: 2009 - 2013
         details: |
-          A Level: Business Studies and English.
-          AS Level: Economics, Mathematics, Business Studies and English.
-          IGCSE Level: Computing, Music, Biology, Math and English.
+          - A Level: Business Studies and English.
+          - AS Level: Economics, Mathematics, Business Studies and English.
+          - IGCSE Level: Computing, Music, Biology, Math and English.
 experiences:
     title: Experiences
     info:
