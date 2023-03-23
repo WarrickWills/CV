@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Warrick Wills
@@ -91,7 +91,10 @@ experiences:
         details: |
           I am a senior engineer in our Integration team in the Platform Technology department at Xero.
           At my time here I have architected, managed, built or worked on over 40 components, across a range of language and technology stacks, 
-          integrating with a multitude of systems, both internal and 3rd party.
+          integrating with a multitude of internal and third party systems.
+          I have been heavily involved in the inception and implementation of development and DevOps practices to improve the teams function.
+          This includes, continuous integration and deployment along with TBD, the use of Kanban for measuring workflow and implementing WIP limits,
+          introducing the use test driven development and also enabling a fully automated deployment strategy via extensive system, component, contact and E2E tests.
       - role: Full Stack Developer
         time: May 2017 - February 2019
         company: IMPAC Services, Wellington
@@ -130,7 +133,7 @@ experiences:
 education:
     title: Education
     info:
-      - degree: Bachelor of Computer and Information Sciences
+      - degree: Bachelor of Computer and Information Sciences (Double Major in Software Development and Computer Science)
         university: AUT University
         time: 2014 - 2016
         details: |
