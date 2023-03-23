@@ -77,7 +77,7 @@ experiences:
     info:
       - role: Senior Engineer
         time: March 2019 - Present
-        company: Xero
+        company: Xero, Wellington/Auckland
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -116,7 +116,7 @@ experiences:
           and tracking Geolocation data.
       - role: Web/Mobile Developer
         time: March 2016 - February 2017
-        company: Amazon, London
+        company: Freelance, Auckland/Wellington
         details: |
           - Worked in a team of 3 to create an Android application which
             converts UML state charts into high level rehabilitation plans for
