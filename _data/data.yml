@@ -15,7 +15,7 @@ sidebar:
     email: warrick.j@live.com
     phone: +64 21 116 8901
     timezone: # Pacific/Auckland Timezone
-    citizenship:
+    citizenship: Auckland, New Zealand
     website: # holisthub.com #do not add http://
     linkedin: warrick-wills-b7b051126
     xing: # alandoe
@@ -38,8 +38,11 @@ sidebar:
        - idiom: Frameworks
          level: .NET, .NET Core, Node, Angular, React
     
-       - idiom: Developer Tools
+       - idiom: Developer/DevOps Tools
          level: Git, Docker, TeamCity, Octopus, JIRA, Swagger
+         
+       - idiom: DevOps Practices
+         level: Continuous Integration, Continuous Deployment, Trunk Based Developlent
 
        - idiom: Agile Methodologies
          level: SCRUM, Kanban, Extreme Programming
@@ -81,17 +84,7 @@ experiences:
         time: March 2019 - Present
         company: Xero, Wellington/Auckland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          I am a senior engineer in our Integration team in the Platform Technology department at Xero.
       - role: Full Stack Developer
         time: May 2017 - February 2019
         company: IMPAC Services, Wellington
