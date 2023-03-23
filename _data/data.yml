@@ -33,13 +33,13 @@ sidebar:
      title: Skills
      info:
        - idiom: Languages
-         level: C#, SQL, Javascript, Typescript, Bash, Kotlin
+         level: C#, SQL, Javascript, Typescript, Bash, Kotlin, Java
     
        - idiom: Frameworks
          level: .NET, .NET Core, Node, Angular, React
     
        - idiom: Developer/DevOps Tools
-         level: Git, Docker, TeamCity, Octopus, JIRA, Swagger
+         level: Git, Docker, Apache Kafka, TeamCity, Octopus, JIRA, Swagger
          
        - idiom: DevOps Practices
          level: Continuous Integration, Continuous Deployment, Trunk Based Developlent
@@ -48,7 +48,7 @@ sidebar:
          level: SCRUM, Kanban, Extreme Programming
 
        - idiom: AWS
-         level: CloudFormation, Lambda, ECS, EC2, CloudWatch, etc.
+         level: CloudFormation, Lambda, ECS, SQS, EC2, S3, Route 53, CloudWatch, etc.
 
     interests:
       title: Interests
@@ -103,8 +103,8 @@ experiences:
         details: |
           I was part of an agile, cross-functional team tasked with
           replacing a 12-year-old cloud-based Health and Safety
-          Management system. We built the platform from the ground up using
-          technologies, including Angular 4+, .NET Core, and
+          Management system. We built this platform from the ground up using
+          technologies including Angular 4+, .NET Core, and
           various third-party frameworks.
 
           Rapidly building a depth of understanding of new languages and
