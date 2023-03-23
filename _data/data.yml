@@ -3,11 +3,11 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Warrick WIlls
+    name: Warrick Wills
     tagline: Senior Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -17,7 +17,7 @@ sidebar:
     timezone: # Pacific/Auckland Timezone
     citizenship:
     website: # holisthub.com #do not add http://
-    linkedin: https://www.linkedin.com/in/warrick-wills-b7b051126
+    linkedin: warrick-wills-b7b051126
     xing: # alandoe
     github: warrickwills
     telegram: # add your nickname without '@' sign
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     #languages:
     #  title: Languages
@@ -46,18 +46,17 @@ sidebar:
       info:
         - item: Drumming
           link:
-
         - item: Cricket
           link:
-
-        - item: Blogging
+        - item: Technology
           link:
-        
+        - item: Investing
+          link:
         - item: Blogging
           link: holisthub.com
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -199,26 +198,26 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C#
+        level: # 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: AWS
+        level: # 98%
 
       - name: Angular
-        level: 98%
+        level: # 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: # 95%
 
       - name: Ruby on Rails
-        level: 85%
+        level: # 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: # 60%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
