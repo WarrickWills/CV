@@ -29,17 +29,47 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
-    #languages:
-    #  title: Languages
-    #  info:
-    #    - idiom: English
-    #      level: Native
-    #
-    #    - idiom: French
-    #      level: Professional
-    #
-    #    - idiom: Spanish
-    #      level: Professional
+    languages:
+     title: Skills (Languages, Frameworks, Tools and Platforms)
+     info:
+       - idiom: C#
+         #level: Native
+    
+       - idiom: Node
+         #level: Professional
+    
+       - idiom: Typescript
+         #level: Professional
+
+       - idiom: SQL
+         #level: Professional
+
+       - idiom: Bash
+         #level: Native
+    
+       - idiom: Kotlin
+         #level: Professional
+    
+       - idiom: Angular
+         #level: Professional
+
+       - idiom: React
+         #level: Professional
+
+       - idiom: Git
+         #level: Native
+    
+       - idiom: Docker
+         #level: Professional
+    
+       - idiom: TeamCity
+         #level: Professional
+
+       - idiom: AWS
+         level: CloudFormation, Lambda, ECS, EC2, CloudWatch, etc.
+
+       - idiom: Agile Methodologies
+         level: SCRUM, Kanban, Extreme Programming
 
     interests:
       title: Interests
@@ -65,6 +95,7 @@ career-profile:
       I have a deep passion for technology and its ability to bring about positive change. I believe that collaboration is key to achieving innovation, and I actively seek opportunities to work alongside others, sharing my knowledge and learning from them.
 
       As a software engineer, I am committed to producing high-quality code that is efficient, scalable, and maintainable. I have experience in a range of languages and technologies, and have a stong understanding of agile software development methodoligies.
+
 education:
     title: Education
     info:
@@ -81,6 +112,7 @@ education:
           - A Level: Business Studies and English.
           - AS Level: Economics, Mathematics, Business Studies and English.
           - IGCSE Level: Computing, Music, Biology, Math and English.
+
 experiences:
     title: Experiences
     info:
@@ -121,95 +153,96 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-skills:
-    title: Skills
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
-    toolset:
-      - name: C#
-        # level: 98%
+# skills:
+#     title: Skills
 
-      - name: AWS
-        # level: 98%
+#     toolset:
+#       - name: C#
+#         # level: 98%
 
-      - name: Angular
-        # level: 98%
+#       - name: Typescript
+#         # level: 98%
 
-      - name: HTML5 & CSS
-        # level: 95%
+#       - name: Kotlin
+#         # level: 98%
 
-      - name: Ruby on Rails
-        # level: 85%
+#       - name: SQL
+#         # level: 95%
 
-      - name: Sketch & Photoshop
-        # level: 60%
+#       - name: Bash
+#         # level: 85%
+
+#       - name: Sketch & Photoshop
+#         # level: 60%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
