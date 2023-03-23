@@ -134,10 +134,10 @@ education:
         details: |
           - Double Major in Software Development and Computer Science
           - Overall GPA: B+
-      - degree: Developing on AWS
+      - degree: Developing on AWS Course
         university: AWS
         time: 2022
-      - degree: Architecting on AWS
+      - degree: Architecting on AWS Course
         university: AWS
         time: 2021
       - degree: Cambridge AS/A and IGCSE Levels
