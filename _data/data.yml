@@ -48,7 +48,7 @@ sidebar:
          level: SCRUM, Kanban, Extreme Programming
 
        - idiom: AWS
-         level: CloudFormation, Lambda, ECS, SQS, EC2, S3, Route 53, CloudWatch, etc.
+         level: CloudFormation, Lambda, ECS, SNS, SQS, EC2, S3, DynamoDB, Route 53, CloudWatch, etc.
 
     interests:
       title: Interests
