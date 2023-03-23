@@ -45,7 +45,7 @@ sidebar:
          level: SCRUM, Kanban, Extreme Programming
 
        - idiom: AWS
-         level: CloudFormation, Lambda, ECS, EC2, Route 53, CloudWatch, etc.
+         level: CloudFormation, Lambda, ECS, EC2, CloudWatch, etc.
 
     interests:
       title: Interests
@@ -72,29 +72,12 @@ career-profile:
 
       As a software engineer, I am committed to producing high-quality code that is efficient, scalable, and maintainable. I have experience in a range of languages and technologies, and have a stong understanding of agile software development methodoligies.
 
-education:
-    title: Education
-    info:
-      - degree: Bachelor of Computer and Information Sciences
-        university: AUT University
-        time: 2014 - 2016
-        details: |
-          - Double Major in Software Development and Computer Science
-          - Overall GPA: B+
-      - degree: Cambridge AS/A and IGCSE Levels
-        university: Macleans College
-        time: 2009 - 2013
-        details: |
-          - A Level: Business Studies and English.
-          - AS Level: Economics, Mathematics, Business Studies and English.
-          - IGCSE Level: Computing, Music, Biology, Math and English.
-
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Engineer
+        time: March 2019 - Present
+        company: Xero
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,28 +90,66 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Full Stack Developer
+        time: May 2017 - February 2019
+        company: IMPAC Services, Wellington
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
+          I was part of an agile, cross-functional team tasked with
+          replacing a 12-year-old cloud-based Health and Safety
+          Management system. We built the platform from the ground up using
+          technologies, including Angular 4+, .NET Core, and
+          various third-party frameworks.
+
+          Rapidly building a depth of understanding of new languages and
+          concepts enabled me to assume a lead role within the team,
+          coaching other developers and conceptualising and building the software
+          architecture. I worked closely with our product owner, business
+          analyst, UX designer and tester on a daily basis, developing
+          iteratively and incrementally to ensure what we are building is fit
+          for purpose and will delight our clients.
+
+          Prior to this I also worked on the existing system, which included converting
+          multiple modules from classic ASP to ASP.NET. Expanding on
+          this, I architected and implemented a new mobile application which
+          includes a range of core functionality which was heavily used by our client
+          base and the implementation of new features, including capturing
+          and tracking Geolocation data.
+      - role: Web/Mobile Developer
+        time: March 2016 - February 2017
         company: Amazon, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Worked in a team of 3 to create an Android application which
+            converts UML state charts into high level rehabilitation plans for
+            patients. I outlined and built our back-end architecture and
+            worked on the core features, primarily the ability to convert the
+            state charts into Java code compatible with Android.
+          - Created a website for an NZ based Automotive company.
+
+  education:
+    title: Education
+    info:
+      - degree: Bachelor of Computer and Information Sciences
+        university: AUT University
+        time: 2014 - 2016
+        details: |
+          - Double Major in Software Development and Computer Science
+          - Overall GPA: B+
+      - degree: Developing on AWS
+        university: AWS
+        time: 2022
+      - degree: Architecting on AWS
+        university: AWS
+        time: 2021
+      - degree: Cambridge AS/A and IGCSE Levels
+        university: Macleans College
+        time: 2009 - 2013
+        details: |
+          - A Level: Business Studies and English
+          - AS Level: Economics, Mathematics, Business Studies and English
+          - IGCSE Level: Computing, Music, Biology, Math and English
+      - degree: Stage 1 Health and Safety Representative
+        university: IMPAC Services
+        time: 2018
 
 # projects:
 #     title: Projects
