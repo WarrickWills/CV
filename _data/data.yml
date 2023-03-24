@@ -33,7 +33,7 @@ sidebar:
      title: Skills
      info:
        - idiom: Languages
-         level: C#, SQL, Javascript, Typescript, Bash, Kotlin, Java
+         level: C#, SQL, JavaScript, TypeScript, Bash, Kotlin, Java
     
        - idiom: Frameworks
          level: .NET, .NET Core, Node, Angular, React
@@ -42,7 +42,7 @@ sidebar:
          level: Git, Docker, Apache Kafka, TeamCity, Octopus, JIRA, Swagger
          
        - idiom: DevOps Practices
-         level: Continuous Integration, Continuous Deployment, Trunk Based Developlent
+         level: Continuous Integration, Continuous Deployment, Trunk Based Development
 
        - idiom: Agile Methodologies
          level: SCRUM, Kanban, Extreme Programming
@@ -95,12 +95,12 @@ experiences:
           The technologies I have used working on back end components at Xero primary consist of C#, .NET, Node.JS, Kotlin and SQL. 
           The technologies I have used working on front end components at Xero primarily consist of React and ASP.NET Razor.
 
-          My team is havily involved in the graduate program, and over the last three years I have been the main mentor for many of these developers. 
+          My team is heavily involved in the graduate program, and over the last three years I have been the main mentor for many of these developers. 
           I have buddied with six people, with my job being their main contact for mentorship, guidance, explanation and code review. 
           Many of these developers have decided to stay with our team after the program, which consists of four rotations, and work as associates on our team. 
           This is a testament to the fact that they enjoyed working as a part of our team.
 
-      	  The nature of my work means I use AWS services on a daily basis. Some of the key cloud computing/infrastructure tools and how I have used them include:
+          The nature of my work means I use AWS services on a daily basis. Some of the key cloud computing/infrastructure tools and how I have used them include:
             - Deploying and maintaining highly available, fault-tolerant web application architecture using AWS services such as ECS, EC2, SNS, SQS, and Lambda.
             - Building and maintaining scalable distributed data processing pipelines using AWS S3, Lambda, and SQS.
             - Implementing and managing infrastructure as code using AWS CloudFormation, enabling infrastructure deployment and management to be automated and version-controlled.
@@ -118,7 +118,7 @@ experiences:
             - I have been heavily involved in the inception and implementation of our Agile process. I presented a proposal for improvements to our Agile practices. I introduced the use of Kanban for measuring workflow and implementing WIP limits. I created an agile manifesto for our team to follow containing the practices we are adhering to and templates for how to create tasks, spec them out and collaborate effectively.
             - Improvements to our DevOps practices.
             - Improvements to our development practices.
-	     
+
       - role: Full Stack Developer
         time: May 2017 - February 2019
         company: IMPAC Services, Wellington
