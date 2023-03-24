@@ -111,17 +111,16 @@ experiences:
             scalability, and security.
 
           Some of my key achievements pertaining to project work include:
-            - Original and primary developer of our teams largest integration.
+            - Original and primary developer of our teams largest integration used to move data from a range of  different source systems into Salesforce.
               - Consists of 32 different deployables.
-              - Used to move data from a range of  different source systems into Salesforce. 
               - This integration alone processes 18.6 million events per month, and this number is continually growing. 
-              - The primary technologies I have used to build these event data flows include: AWS ECS, SQS, SNS, Lambda, and Apache Kafka. 
+              - The primary technologies I used to build these event data flows include: AWS ECS, SQS, SNS, Lambda, and Apache Kafka. 
               - I have worked with a number of external clients to onboard and  manage the processing of external data in order to generate leads, 
               manage virtual and in-person events, and obtain sales and marketing insights amongst other things.
             - Built a custom fit integration to automate the processing of discount events for Xero partners. 
-              - The primary technologies I have used to build this application is AWS Lambda, DynamoDB and Event Store.
+              - The primary technologies I used to build this application is AWS Lambda, DynamoDB and Event Store.
             - Worked in a team to build an API solution for surfacing a range of business objects from Salesforce for use by our Sales and Marketing teams. 
-              - The primary technologies I have used to build this application is AWS ECS, ELB and Route 53.
+              - The primary technologies I used to build this application is AWS ECS, ELB and Route 53.
             - Created, architected or worked on a number of integrations for internal clients such as our Data Services team, our Customer Experience team, 
             our sales and our Marketing department.
             - Won our department's internal hackathon 2 times.
