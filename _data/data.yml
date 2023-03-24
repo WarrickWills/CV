@@ -36,7 +36,7 @@ sidebar:
          level: C#, SQL, JavaScript, TypeScript, Bash, Kotlin, Java
     
        - idiom: Frameworks
-         level: .NET, .NET Core, Node, Angular, React
+         level: .NET, .NET Core, Node.JS, Angular, React
     
        - idiom: Developer/DevOps Tools
          level: Git, Docker, Apache Kafka, TeamCity, Octopus, JIRA, Swagger
