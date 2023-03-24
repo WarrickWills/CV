@@ -95,7 +95,7 @@ experiences:
           The technologies I have used working on back end components at Xero primary consist of C#, .NET, Node.JS, Kotlin and SQL. 
           The technologies I have used working on front end components at Xero primarily consist of React and ASP.NET Razor.
 
-          My team is heavily involved in the graduate program, and over the last three years I have been the main mentor for many of these developers. 
+          My team is heavily involved in the graduate program, and over the last three years I have been the primary mentor for many of these developers. 
           I have buddied with six people, with my job being their main contact for mentorship, guidance, explanation and code review. 
           Many of these developers have decided to stay with our team after the program, which consists of four rotations, and work as associates on our team. 
           This is a testament to the fact that they enjoyed working as a part of our team.
@@ -126,14 +126,22 @@ experiences:
             our sales and our Marketing department.
             - Won our department's internal hackathon 2 times.
 
-          Some key achievements pertaining to the improvement of team function:
+          Some of my key achievements pertaining to the improvement of team function:
             - The inception and implementation of our Agile process. 
               - I presented a proposal for improvements to our Agile practices. 
               - I introduced the use of Kanban for measuring workflow and implementing WIP limits. 
+              - I restructured our meeting ceremonies to be more fit to purpose as our team structures changed.
               - I created an agile manifesto for our team to follow containing the practices we are adhering to and templates for how to create tasks, 
               spec them out and collaborate effectively.
             - Improvements to, and adoption of our DevOps practices.
+              - The introduction of an automated CI/CD pipeline using TeamCity and Octopus.
+              - The adoption of Trunk Based Developlemt.
+              - The enablement of the automated deployment via a fully integrated testing suite, with Unit, System, component, 
+              Contract and end-to-end Integration tests.
             - Improvements to, and adoption of our development practices.
+              - The introduction of TDD and ping-pong programming.
+              - The use of pomodo timer time boxed paired development.
+              - The use of a system metaphor documentation for our components to outline the funtion of them for external users of our systems.
 
       - role: Full Stack Developer
         time: May 2017 - February 2019
