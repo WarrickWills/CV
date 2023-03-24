@@ -88,19 +88,19 @@ experiences:
         time: March 2019 - Present
         company: Xero, Wellington/Auckland
         details: |
-          I work in the Integration team in the Platform Technology department at Xero. At my time here I have architected, managed, built or worked on over 
-          40 components, across a range of language and technology stacks, integrating with a multitude of internal and third party systems. 
-          The components I primarily work on are back end worker or API components, built as either containers or lambdas.
+          I work in the Integration team within the Platform Technology department at Xero. During my time here, I have architected, managed, built, or worked on 
+          over 40 components, across a range of languages and technology stacks, integrating with a multitude of internal and third-party systems. 
+          The work I primarily do consists of the implementation of backend worker or API components, built as either containers or lambdas.
 
-          The technologies I have used working on back end components at Xero primary consist of C#, .NET, Node.JS, Kotlin and SQL. 
-          The technologies I have used working on front end components at Xero primarily consist of React and ASP.NET Razor.
+          The technologies I have used while working on back end components at Xero primary consist of C#, .NET, Node.JS, Kotlin and SQL. 
+          The technologies I have used while working on front end components at Xero primarily consist of React and ASP.NET Razor.
 
-          My team is heavily involved in the graduate program, and over the last three years I have been the primary mentor for many of these developers. 
-          I have buddied with six people, with my job being their main contact for mentorship, guidance, explanation and code review. 
-          Many of these developers have decided to stay with our team after the program, which consists of four rotations, and work as associates on our team. 
-          This is a testament to the fact that they enjoyed working as a part of our team.
+          My team is heavily involved in the graduate program, and over the last three years, I have been the primary mentor for many of these developers.
+          Over this period, I have worked closely with six graduates and one intern, serving as their main point of contact for mentorship, guidance, explanations, and code review.
+          Many of these developers have decided to stay with our team after completing the program, which consists of four rotations in different teams at Xero, 
+          and work as associates. This is a testament to the fact that they enjoyed being part of our team.
 
-          The nature of my work means I use AWS services on a daily basis. Some of the key cloud computing/infrastructure tools and how I have used them include:
+          The nature of my work means that I use AWS services on a daily basis. Some of the key cloud computing and infrastructure tools I have used, and how I have used them include:
             - Deploying and maintaining highly available, fault-tolerant web application architecture using AWS services such as ECS, EC2, SNS, SQS, and Lambda.
             - Building and maintaining scalable distributed data processing pipelines using AWS S3, Lambda, and SQS.
             - Implementing and managing infrastructure as code using AWS CloudFormation, enabling infrastructure deployment and 
@@ -111,36 +111,35 @@ experiences:
             scalability, and security.
 
           Some of my key achievements pertaining to project work include:
-            - Original and primary developer of our teams largest integration used to move data from a range of  different source systems into Salesforce.
-              - Consists of 32 different deployables.
+            - Being the original and primary developer of our team's largest integration used to move data from a range of  different source systems into Salesforce.
+              - Consisting of 32 different deployables.
               - This integration alone processes 18.6 million events per month, and this number is continually growing.  
               - I have worked with a number of external clients to onboard and  manage the processing of external data in order to generate leads, 
-              manage virtual and in-person events, and obtain sales and marketing insights amongst other things.
-              - The primary technologies I used to build these event data flows include: AWS ECS, SQS, SNS, Lambda, and Apache Kafka.
-            - Built a custom fit integration to automate the processing of discount events for Xero partners. 
-              - The primary technologies I used to build this application is AWS Lambda, DynamoDB and Event Store.
-            - Worked in a team to build an API solution for surfacing a range of business objects from Salesforce for use by our Sales and Marketing teams. 
-              - The primary technologies I used to build this application is AWS ECS, ELB and Route 53.
-            - Created, architected or worked on a number of integrations for internal clients such as our Data Services team, our Customer Experience team, 
-            our sales and our Marketing department.
-            - Won our department's internal hackathon 2 times.
+              manage virtual and in-person events, and obtain sales and marketing insights, among other things.
+              - The primary technologies I used to build these event data flows include AWS ECS, SQS, SNS, Lambda, and Apache Kafka.
+            - Building a custom-fit integration to automate the processing of discount events for Xero partners.
+              - The primary technologies I used to build this application are AWS Lambda, DynamoDB and Event Store.
+            - Working in a team to build an API solution for surfacing a range of business objects from Salesforce for use by our Sales and Marketing teams.
+              - The primary technologies I used to build this application are AWS ECS, ELB and Route 53.
+            - Creating, architecting, or working on a number of integrations for internal clients such as our Data Services team, our Customer Experience team, 
+            our Sales, and our Marketing department.
+            - Winning our department's internal hackathon twice.
 
-          Some of my key achievements pertaining to the improvement of team function:
+          Some of my key achievements pertaining to the improvement of team function include:
             - The inception and implementation of our Agile process. 
-              - I presented a proposal for improvements to our Agile practices. 
-              - I introduced the use of Kanban for measuring workflow and implementing WIP limits. 
-              - I restructured our meeting ceremonies to be more fit to purpose as our team structures changed.
-              - I created an agile manifesto for our team to follow containing the practices we are adhering to and templates for how to create tasks, 
-              spec them out and collaborate effectively.
+              - Presented a proposal for improvements to our Agile practices. 
+              - Introduced the use of Kanban for measuring workflow and implementing WIP limits.
+              - Restructured our meeting ceremonies to be more fit for purpose as our team structures changed.
+              - Created an Agile manifesto for our team to follow, containing the practices we are adhering to and templates for how to create tasks, 
+              spec them out, and collaborate effectively.
             - Improvements to, and adoption of our DevOps practices.
-              - The introduction of an automated CI/CD pipeline using TeamCity and Octopus.
-              - The adoption of Trunk Based Developlemt.
-              - The enablement of the automated deployment via a fully integrated testing suite, with Unit, System, component, 
-              Contract and end-to-end Integration tests.
+              - Developed automated CI/CD pipelines for our integrations using TeamCity and Octopus.
+              - Introduced the adoption of Trunk Based Developlemt.
+              - Enabled automated deployment via a fully integrated testing suite, including Unit, System, component, Contract, and end-to-end Integration tests.
             - Improvements to, and adoption of our development practices.
-              - The introduction of TDD and ping-pong programming.
-              - The use of pomodo timer time boxed paired development.
-              - The use of a system metaphor documentation for our components to outline the funtion of them for external users of our systems.
+              - Introduced TDD and ping-pong programming.
+              - Introduced Pomodoro timer time-boxed paired development.
+              - Introduced system metaphor documentation for our components to outline their function for external users of our systems.
 
       - role: Full Stack Developer
         time: May 2017 - February 2019
