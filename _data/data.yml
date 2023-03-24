@@ -103,19 +103,32 @@ experiences:
           The nature of my work means I use AWS services on a daily basis. Some of the key cloud computing/infrastructure tools and how I have used them include:
             - Deploying and maintaining highly available, fault-tolerant web application architecture using AWS services such as ECS, EC2, SNS, SQS, and Lambda.
             - Building and maintaining scalable distributed data processing pipelines using AWS S3, Lambda, and SQS.
-            - Implementing and managing infrastructure as code using AWS CloudFormation, enabling infrastructure deployment and management to be automated and version-controlled.
+            - Implementing and managing infrastructure as code using AWS CloudFormation, enabling infrastructure deployment and 
+            management to be automated and version-controlled.
             - Designing and maintaining highly available and performant DNS infrastructure using AWS Route 53.
             - Using AWS CloudWatch for monitoring and alerting of critical system metrics.
-            - Collaborating with cross-functional teams to design, deploy and operate complex applications on AWS, ensuring optimal performance, scalability, and security.
+            - Collaborating with cross-functional teams to design, deploy and operate complex applications on AWS, ensuring optimal performance, 
+            scalability, and security.
+
           Some of my key achievements pertaining to project work include:
-            - Original and primary developer of our teams largest integration, consisting of 32 different deployables used to move data from a range of different source systems into Salesforce. 
-            - This integration alone processes 18.6 million events per month, and this number is continually growing. The primary technologies I have used to build these event data flows include: AWS ECS, SQS, SNS, Lambda, and Apache Kafka. I have worked with a number of external clients to onboard and manage the processing of external data in order to generate leads, manage virtual and in-person events, and obtain sales and marketing insights amongst other things.
-            - Built a custom fit integration to automate the processing of discount events for Xero partners. The primary technologies I have used to build this application is AWS Lambda, DynamoDB and Event Store.
-            - Worked in a team to build an API solution for surfacing a range of business objects from Salesforce for use by our Sales and Marketing teams. The primary technologies I have used to build this application is AWS ECS, ELB and Route 53.
-            - Created, architected or worked on a number of integrations for internal clients such as our Data Services team, our Customer Experience team, our sales and our Marketing department.
+            - Original and primary developer of our teams largest integration, consisting of 32 different deployables used to move data from a range of 
+            different source systems into Salesforce. 
+            - This integration alone processes 18.6 million events per month, and this number is continually growing. The primary technologies I have used to 
+            build these event data flows include: AWS ECS, SQS, SNS, Lambda, and Apache Kafka. I have worked with a number of external clients to onboard and 
+            manage the processing of external data in order to generate leads, manage virtual and in-person events, and obtain sales and marketing insights 
+            amongst other things.
+            - Built a custom fit integration to automate the processing of discount events for Xero partners. The primary technologies 
+            I have used to build this application is AWS Lambda, DynamoDB and Event Store.
+            - Worked in a team to build an API solution for surfacing a range of business objects from Salesforce for use by our Sales and Marketing teams. 
+            The primary technologies I have used to build this application is AWS ECS, ELB and Route 53.
+            - Created, architected or worked on a number of integrations for internal clients such as our Data Services team, our Customer Experience team, 
+            our sales and our Marketing department.
             - Won our department's internal hackathon 2 times.
+
           Some key achievements pertaining to the improvement of team function:
-            - I have been heavily involved in the inception and implementation of our Agile process. I presented a proposal for improvements to our Agile practices. I introduced the use of Kanban for measuring workflow and implementing WIP limits. I created an agile manifesto for our team to follow containing the practices we are adhering to and templates for how to create tasks, spec them out and collaborate effectively.
+            - I have been heavily involved in the inception and implementation of our Agile process. I presented a proposal for improvements to our Agile practices. 
+            I introduced the use of Kanban for measuring workflow and implementing WIP limits. I created an agile manifesto for our team to follow containing 
+            the practices we are adhering to and templates for how to create tasks, spec them out and collaborate effectively.
             - Improvements to our DevOps practices.
             - Improvements to our development practices.
 
