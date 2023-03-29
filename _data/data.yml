@@ -33,13 +33,13 @@ sidebar:
      title: Skills
      info:
        - idiom: Languages
-         level: C#, SQL, JavaScript, TypeScript, Bash, Kotlin, Java
+         level: C#, SQL, JavaScript, TypeScript, Bash, Kotlin, Terraform, Java
     
        - idiom: Frameworks
          level: .NET, .NET Core, Node.JS, Angular, React
     
        - idiom: Developer/DevOps Tools
-         level: Git, Docker, Apache Kafka, TeamCity, Octopus, JIRA, Swagger
+         level: Git, Docker, Apache Kafka, TeamCity, Octopus, JIRA, Swagger, Launch Darkly, Mockserver
          
        - idiom: DevOps Practices
          level: Continuous Integration, Continuous Deployment, Trunk Based Development
@@ -67,19 +67,10 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I am a highly experienced software engineer with over 7 years of industry expertise. As a creative individual, 
-      I am passionate about innovation and working collaboratively with others to produce tangible results. 
-      I enjoy continuously learning new things and developing my skills, ensuring that I am always up-to-date with the latest technologies.
-
-      Throughout my career, I have successfully delivered numerous software projects, demonstrating my strong ability to work independently or as part of a team. 
-      I have excellent problem-solving skills and can provide innovative solutions to complex software problems.
-
-      I have a deep passion for technology and its ability to bring about positive change. I believe that collaboration is key to achieving innovation, 
-      and I actively seek opportunities to work alongside others, sharing my knowledge and learning from them.
-
-      As a software engineer, I am committed to producing high-quality code that is efficient, scalable, and maintainable. 
-      I have experience in a range of languages and technologies, including the full scope of software delivery, cloud services and DevOps practices, 
-      and have a strong understanding of agile software development methodologies.
+      I'm an experienced software engineer with a passion for innovation and collaboration. I have over 7 years of industry experience and a track record of 
+      delivering successful software projects independently or as part of a team. I'm skilled in problem-solving and providing innovative solutions to complex 
+      software issues. I have a deep passion for technology and believe in collaboration to achieve innovation. I'm committed to producing high-quality, efficient, 
+      scalable, and maintainable code, and I'm skilled in achieving this with a range of technologies.
 
 experiences:
     title: Experience
@@ -90,7 +81,7 @@ experiences:
         details: |
           I work in the Integration team within the Platform Technology department at Xero. During my time here, I have architected, managed, built, or worked on 
           over 40 components, across a range of languages and technology stacks, integrating with a multitude of internal and third-party systems. 
-          The work I primarily do consists of the implementation of backend worker or API components, built as either containers or lambdas.
+          The work I primarily do consists of the implementation of backend workers or API components, built as either containers or lambdas.
 
           The technologies I have used while working on back end components at Xero primary consist of C#, .NET, Node.JS, Kotlin and SQL. 
           The technologies I have used while working on front end components at Xero primarily consist of React and ASP.NET Razor.
@@ -98,7 +89,7 @@ experiences:
           My team is heavily involved in the graduate program, and over the last three years, I have been the primary mentor for many of these developers.
           Over this period, I have worked closely with six graduates and one intern, serving as their main point of contact for mentorship, guidance, explanations, and code review.
           Many of these developers have decided to stay with our team after completing the program, which consists of four rotations in different teams at Xero, 
-          and work as associates. This is a testament to the fact that they enjoyed being part of our team.
+          and work as associates. This is a testament to the fact that they enjoyed being part of our team, and the mentoring that they received.
 
           The nature of my work means that I use AWS services on a daily basis. Some of the key cloud computing and infrastructure tools I have used, and how I have used them include:
             - Deploying and maintaining highly available, fault-tolerant web application architecture using AWS services such as ECS, EC2, SNS, SQS, and Lambda.
