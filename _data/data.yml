@@ -176,6 +176,12 @@ education:
         details: |
           - Double Major in Software Development and Computer Science
           - Overall GPA: B+
+      - degree: Salesforce Associate Certification
+        university: Salesforce
+        time: 2024
+      - degree: Advanced Architecting on AWS Course
+        university: AWS
+        time: 2024
       - degree: Developing on AWS Course
         university: AWS
         time: 2022
