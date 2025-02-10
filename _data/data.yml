@@ -70,7 +70,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I'm an experienced software engineer with a passion for innovation and collaboration. I have over 7 years of industry experience and a track record of 
+      I'm an experienced software engineer with a passion for innovation and collaboration. I have over 9 years of industry experience and a track record of 
       delivering successful software projects independently or as part of a team. I'm skilled in problem-solving and providing innovative solutions to complex 
       software issues. I have a deep passion for technology and believe in collaboration to achieve innovation. I'm committed to producing high-quality, efficient, 
       scalable, and maintainable code, and I'm skilled in achieving this with a range of technologies.
@@ -82,7 +82,7 @@ experiences:
         time: March 2019 - Present
         company: Xero, Wellington/Auckland
         details: |
-          I work in the Integration team within the Platform Technology department at Xero. During my time here, I have architected, managed, built, or worked on 
+          I work in the Integration team within the Enterprise Technology department at Xero. During my time here, I have architected, managed, built, or worked on 
           over 40 components, across a range of languages and technology stacks, integrating with a multitude of internal and third-party systems. 
           The work I primarily do consists of the implementation of backend workers or API components, built as either containers or lambdas.
 
@@ -115,6 +115,12 @@ experiences:
               - The primary technologies I used to build this application are AWS Lambda, DynamoDB and Event Store.
             - Working in a team to build an API solution for surfacing a range of business objects from Salesforce for use by our Sales and Marketing teams.
               - The primary technologies I used to build this application are AWS ECS, ELB and Route 53.
+            - Architecting and building, in collaboration with Salesforce engineers, a bespoke solution for running custom activities as a part of marketing journeys within Salesforce Marketing Cloud. 
+            This solution consists of a distributed set of components which represent the model, view and controller.
+              - The primary technologies used for this solution were AWS ECS, ELB, Route 53, s3 on the Integration side, and Webpack, Javascript and Postmonger on the Salesforce side.
+            - Architecting and building, in collaboration with Salesforce engineers, a solution for General Data Protection Regulation (GDPR) compliance, 
+            tasked with ingesting deletion events and completing deletion actions to downstream applications.
+              - The primary technologies used for this solution were AWS ECS, ELB, Route 53, Lambda on the Integration side and an APEX API on the Salesforce side.
             - Creating, architecting, or working on a number of integrations for internal clients such as our Data Services team, our Customer Experience team, 
             our Sales, and our Marketing department.
             - Winning a category of our department's internal hackathon twice.
@@ -127,11 +133,15 @@ experiences:
               - Created an Agile manifesto for our team to follow, containing the practices we are adhering to and templates for how to create tasks, 
               spec them out, and collaborate effectively.
             - Improvements to, and adoption of our DevOps practices.
+              - Introduced the adoption of GitHub Actions as a deployment strategy within the Enterprise Technology space. 
+              As a part of this I developed a centralized solution for managing AWS roles and other infrastructure as well as all of the deployment scripting 
+              and infrastructure that is generic and templated for ease of onboarding new components. 
+              This has been made use of within the Integration space as well as the Salesforce space.
               - Developed automated CI/CD pipelines for our integrations using GitHub, TeamCity and Octopus.
-              - Introduced the adoption of Trunk Based Developlemt.
+              - Was a fundemental member in introducing the adoption of Trunk Based Developlemt.
               - Enabled automated deployment via a fully integrated testing suite, including Unit, System, component, Contract, and end-to-end Integration tests.
             - Improvements to, and adoption of our development practices.
-              - Introduced TDD, pair and mob programming.
+              - Initial adopter and advocate within our space for TDD, pair and mob programming.
               - Introduced Pomodoro timer time-boxed paired development.
               - Introduced system metaphor documentation for our components to outline their function for external users of our systems.
 
