@@ -50,6 +50,9 @@ sidebar:
        - idiom: AWS
          level: CloudFormation, Lambda, ECS, SNS, SQS, EC2, S3, DynamoDB, Route 53, CloudWatch, etc.
 
+       - idiom: Salesforce
+         level: Integrations and design within Salesforce CRM, CRMA and Marketing Cloud
+
     interests:
       title: Interests
       info:
@@ -87,7 +90,7 @@ experiences:
           The technologies I have used while working on front end components at Xero primarily consist of React and ASP.NET Razor.
 
           My team is heavily involved in the graduate program, and over the last three years, I have been the primary mentor for many of these developers.
-          Over this period, I have worked closely with six graduates and one intern, serving as their main point of contact for mentorship, guidance, explanations, and code review.
+          Over this period, I have worked closely with eight graduates and one intern, serving as their main point of contact for mentorship, guidance, explanations, and code review.
           Many of these developers have decided to stay with our team after completing the program, which consists of four rotations in different teams at Xero, 
           and work as associates. This is a testament to the fact that they enjoyed being part of our team, and the mentoring that they received.
 
@@ -103,7 +106,7 @@ experiences:
 
           Some of my key achievements pertaining to project work include:
             - Being the original and primary developer of our team's largest integration used to move data from a range of  different source systems into Salesforce.
-              - Consisting of 32 different deployables.
+              - Consisting of over 35 different deployables.
               - This integration alone processes 18.6 million events per month, and this number is continually growing.  
               - I have worked with a number of external clients to onboard and  manage the processing of external data in order to generate leads, 
               manage virtual and in-person events, and obtain sales and marketing insights, among other things.
@@ -114,7 +117,7 @@ experiences:
               - The primary technologies I used to build this application are AWS ECS, ELB and Route 53.
             - Creating, architecting, or working on a number of integrations for internal clients such as our Data Services team, our Customer Experience team, 
             our Sales, and our Marketing department.
-            - Winning our department's internal hackathon twice.
+            - Winning a category of our department's internal hackathon twice.
 
           Some of my key achievements pertaining to the improvement of team function include:
             - The inception and implementation of our Agile process. 
@@ -124,11 +127,11 @@ experiences:
               - Created an Agile manifesto for our team to follow, containing the practices we are adhering to and templates for how to create tasks, 
               spec them out, and collaborate effectively.
             - Improvements to, and adoption of our DevOps practices.
-              - Developed automated CI/CD pipelines for our integrations using TeamCity and Octopus.
+              - Developed automated CI/CD pipelines for our integrations using GitHub, TeamCity and Octopus.
               - Introduced the adoption of Trunk Based Developlemt.
               - Enabled automated deployment via a fully integrated testing suite, including Unit, System, component, Contract, and end-to-end Integration tests.
             - Improvements to, and adoption of our development practices.
-              - Introduced TDD and ping-pong programming.
+              - Introduced TDD, pair and mob programming.
               - Introduced Pomodoro timer time-boxed paired development.
               - Introduced system metaphor documentation for our components to outline their function for external users of our systems.
 
